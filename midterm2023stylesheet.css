@@ -1,0 +1,42 @@
+table {
+	border-collapse:collapse;
+	border:2px solid black;
+	width:100%;
+}
+th, td {
+	border:1px solid black;
+}
+td {
+	text-align:center;
+}
+th {
+	margin:20px;
+}
+.header {
+	text-align:center;
+	font-size:30px;
+	font-family:helvetica;
+}
+body {
+	margin:0;
+}
+h2 {
+	font-family:arial;
+}
+.red {
+	color:red;
+}
+.st {
+	font-size:1.2em;
+	font-family:arial;
+}
+.margin {
+	margin-top:8px;
+	margin-bottom:3px;
+}
+.container {
+	margin:80px;
+}
+.container_image {
+	margin:100px;
+}
